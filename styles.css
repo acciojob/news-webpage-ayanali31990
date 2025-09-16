@@ -11,7 +11,7 @@ width:100%;
 	background-color:#011e29;
 	color:white;
 	display:flex;
-	align-items:center;
+	text-align:center;
 	justify-content:center;
 }
 .box{
